@@ -1,2 +1,3 @@
 J'apprends à utiliser git
 J'avance dans la formation git
+Je teste le git diff
